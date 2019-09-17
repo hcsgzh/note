@@ -11,7 +11,7 @@ class App extends React.Component {
   }
 
   state = {
-    markdownSrc: "# Hello World",
+    markdownSrc: "# Hello Note",
   }
 
   onMarkdownChange = (md) =>{
